@@ -39,6 +39,7 @@
   <div style="background:#282828; border-radius:15px; padding:15px; margin-bottom:10px; color:white;">
     <h3 style="color:#1E90FF;">📊 Databases</h3>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+     <img src="https://img.shields.io/badge/JDBC-003B57?style=flat-square&logo=databricks&logoColor=white" />
   </div>
 
   <!-- Tools -->
