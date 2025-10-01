@@ -7,7 +7,7 @@
 <div style="background: linear-gradient(135deg, #ff7eb3, #ff758c); border-radius:20px; padding:20px; margin:20px 0; color:white;">
   <h2>👩‍💻 About Me</h2>
   <ul>
-    <li>🎯 Goal: Backend Developer</li>
+    <li>🎯 Goal: Becoming a Backend Developer</li>
     <li>📖 Preparing: 정보처리기사, SQLD</li>
     <li>🏅 Certification: 웹디자인개발기능사</li>
     <li>🌱 Currently Studying: Java, Spring Boot</li>
