@@ -1,7 +1,8 @@
-<!-- Welcome Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Welcome%20to%20nmhyrhn's%20GitHub!&animation=twinkling&fontColor=ffffff&fontSize=40" />
-</div>
+<!-- Header Banner -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=ff4b81&text=&animation=twinkling&height=130)
+
+<!-- Typing SVG -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=ffffff&center=true&vCenter=false&multiline=true&repeat=true&width=1000&height=60&lines=Welcome+to+nmhyrhn's+GitHub!+😊)
 
 ---
 
@@ -46,5 +47,5 @@
 ---
 
 ## 🏅 Stats  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nmhyrhn&hide=contribs,prs&show_icons=true&theme=테마)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nmhyrhn&theme=dark&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nmhyrhn&show_icons=true&bg_color=1f1f1f&title_color=ffffff&text_color=ffffff)  
