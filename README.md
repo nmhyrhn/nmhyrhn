@@ -9,7 +9,7 @@
   <ul>
     <li>🎯 Goal: Backend Developer</li>
     <li>📖 Preparing: 정보처리기사, SQLD</li>
-    <li>🏅 Certification: 웹디자인기능사</li>
+    <li>🏅 Certification: 웹디자인개발기능사</li>
     <li>🌱 Currently Studying: Java, Spring Boot</li>
   </ul>
 </div>
