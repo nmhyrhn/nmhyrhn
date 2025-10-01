@@ -4,7 +4,7 @@
 </div>
 
 <!-- About Me -->
-<div style="background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%); border-radius:20px; padding:25px; margin:20px 0; color:white; transition: transform 0.3s;" 
+<div style="background: linear-gradient(135deg, #ff6fa3 0%, #ff8fc1 100%); border-radius:20px; padding:25px; margin:20px 0; color:white; transition: transform 0.3s;" 
      onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <h2 style="border-bottom:2px solid white; padding-bottom:5px;"> 👩‍💻 About Me </h2>
   <ul style="font-weight:600; font-size:16px; line-height:2;">
@@ -18,13 +18,11 @@
 <!-- Tech Stack -->
 <div style="background:#1f1f1f; border-radius:20px; padding:25px; margin:20px 0; color:white;">
   <h2 style="border-bottom:2px solid #ffffff; padding-bottom:5px;">🛠️ Tech Stack</h2>
+  <div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center; margin-top:15px;">
 
-  <div style="display:flex; flex-wrap:wrap; gap:15px; margin-top:15px; justify-content:center;">
-    
-    <!-- Languages I Know -->
-    <div style="background:#282828; border-radius:15px; padding:15px; flex:1 1 220px; min-width:220px; box-shadow:0px 5px 15px rgba(0,0,0,0.5); transition: transform 0.3s;"
+    <div style="background:#282828; border-radius:15px; padding:20px; flex:1 1 300px; min-width:280px; box-shadow:0px 5px 15px rgba(0,0,0,0.5); transition: transform 0.3s; float:left;"
          onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-      <h3 style="color:#FFD700; margin-bottom:10px;">👩🏻‍💻 Languages I Know</h3>
+      <h3 style="color:#FFD700; margin-bottom:15px;">👩🏻‍💻 Languages I Know</h3>
       <div style="display:flex; flex-wrap:wrap; gap:10px;">
         <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
@@ -33,29 +31,26 @@
       </div>
     </div>
 
-    <!-- Learning -->
-    <div style="background:#282828; border-radius:15px; padding:15px; flex:1 1 220px; min-width:220px; box-shadow:0px 5px 15px rgba(0,0,0,0.5); transition: transform 0.3s;"
+    <div style="background:#282828; border-radius:15px; padding:20px; flex:1 1 300px; min-width:280px; box-shadow:0px 5px 15px rgba(0,0,0,0.5); transition: transform 0.3s; float:right;"
          onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-      <h3 style="color:#00FF7F; margin-bottom:10px;">🌱 Learning / Upcoming</h3>
-      <div style="display:flex; gap:10px; flex-wrap:wrap;">
+      <h3 style="color:#00FF7F; margin-bottom:15px;">🌱 Learning / Upcoming</h3>
+      <div style="display:flex; flex-wrap:wrap; gap:10px;">
         <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
       </div>
     </div>
 
-    <!-- Databases -->
-    <div style="background:#282828; border-radius:15px; padding:15px; flex:1 1 220px; min-width:220px; box-shadow:0px 5px 15px rgba(0,0,0,0.5); transition: transform 0.3s;"
+    <div style="background:#282828; border-radius:15px; padding:20px; flex:1 1 300px; min-width:280px; box-shadow:0px 5px 15px rgba(0,0,0,0.5); transition: transform 0.3s; float:left;"
          onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-      <h3 style="color:#1E90FF; margin-bottom:10px;">📊 Databases (basic)</h3>
-      <div style="display:flex; gap:10px; flex-wrap:wrap;">
+      <h3 style="color:#1E90FF; margin-bottom:15px;">📊 Databases (basic)</h3>
+      <div style="display:flex; flex-wrap:wrap; gap:10px;">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       </div>
     </div>
 
-    <!-- Tools -->
-    <div style="background:#282828; border-radius:15px; padding:15px; flex:1 1 220px; min-width:220px; box-shadow:0px 5px 15px rgba(0,0,0,0.5); transition: transform 0.3s;"
+    <div style="background:#282828; border-radius:15px; padding:20px; flex:1 1 300px; min-width:280px; box-shadow:0px 5px 15px rgba(0,0,0,0.5); transition: transform 0.3s; float:right;"
          onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-      <h3 style="color:#FF69B4; margin-bottom:10px;">🧭 Tools & Platforms</h3>
-      <div style="display:flex; gap:10px; flex-wrap:wrap;">
+      <h3 style="color:#FF69B4; margin-bottom:15px;">🧭 Tools & Platforms</h3>
+      <div style="display:flex; flex-wrap:wrap; gap:10px;">
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" />
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
       </div>
@@ -65,7 +60,7 @@
 </div>
 
 <!-- Contact Me -->
-<div style="background: linear-gradient(135deg, #ff416c 0%, #ff4b2b 100%); border-radius:20px; padding:20px; margin:20px 0; color:white; text-align:center; transition: transform 0.3s;" 
+<div style="background: linear-gradient(135deg, #ff6fa3 0%, #ff8fc1 100%); border-radius:20px; padding:20px; margin:20px 0; color:white; text-align:center; transition: transform 0.3s;" 
      onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <h2 style="border-bottom:2px solid white; padding-bottom:5px;"> 🧑‍💻 Contact Me </h2>
   <a href="mailto:gbs06193@gmail.com">
