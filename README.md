@@ -61,5 +61,16 @@
 <!-- Stats -->
 <div style="background:#1f1f1f; border-radius:20px; padding:20px; margin:20px 0; text-align:center;">
   <h2 style="color:white;">🏅 Stats</h2>
+  
+  <!-- 백준 Solved.ac Badge -->
+  <div style="margin-top:15px;">
+    <a href="https://solved.ac/nmhyrhn/">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nmhyrhn" alt="Solved.ac Profile" />
+    </a>
+  </div>
+  
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=nmhyrhn&show_icons=true&bg_color=1f1f1f&title_color=ffffff&text_color=ffffff" />
+  
 </div>
+
