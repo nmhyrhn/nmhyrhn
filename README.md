@@ -5,7 +5,7 @@
 
 <!-- About Me -->
 <div style="background: linear-gradient(135deg, #ff7eb3, #ff758c); border-radius:20px; padding:20px; margin:20px 0; color:white;">
-  <h2>👩‍💻 About Me</h2>
+  <h2>🤩 About Me</h2>
   <ul>
     <li>🎯 Goal: Becoming a Backend Developer</li>
     <li>📖 Preparing: 정보처리기사, SQLD</li>
