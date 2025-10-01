@@ -31,13 +31,13 @@
 
 
   <div style="background:#282828; border-radius:15px; padding:15px; margin-bottom:10px; color:white;">
-    <h3 style="color:#00FF7F;">🌱 Learning / Upcoming</h3>
+    <h3 style="color:#00FF7F;">🌱 Frameworks</h3>
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
   </div>
 
   <!-- Databases -->
   <div style="background:#282828; border-radius:15px; padding:15px; margin-bottom:10px; color:white;">
-    <h3 style="color:#1E90FF;">📊 Databases (basic)</h3>
+    <h3 style="color:#1E90FF;">📊 Databases</h3>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   </div>
 
