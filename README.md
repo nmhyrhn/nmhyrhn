@@ -47,5 +47,4 @@
 ---
 
 ## 🏅 Stats  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nmhyrhn&hide=contribs,prs&show_icons=true&theme=테마)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nmhyrhn&theme=dark&hide_border=true)  
