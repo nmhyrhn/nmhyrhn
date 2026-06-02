@@ -9,7 +9,7 @@
 ## 🤩 About nmhyrhn
 - 🎯 Goal: Becoming a Backend Developer  
 - 📖 Preparing: 
-- 🏅 Certification: 웹디자인개발기능사, SQLD, 정보처리기사 
+- 🏅 Certification: 정보처리기사, SQLD, ADsP, 웹디자인개발기능사
 - 🌱 Currently Studying: Spring Boot, JPA
 
 ---
