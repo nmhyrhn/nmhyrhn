@@ -19,8 +19,8 @@ public class Developer {
     private final String goal = "Backend Developer";
 
     private final String[] studying = {
-        "Spring Boot",
-        "JPA"
+        "Spring Security",
+        "Spring Batch"
     };
 
     private final String[] certifications = {
