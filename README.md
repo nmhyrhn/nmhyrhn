@@ -15,7 +15,7 @@
 
 ```java
 public class Developer {
-    private final String name = "nmhyrhn";
+    private final String name = "NamHyerhin";
     private final String goal = "Backend Developer";
 
     private final String[] studying = {
