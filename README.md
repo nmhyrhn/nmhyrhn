@@ -16,11 +16,12 @@
 ```java
 public class Developer {
     private final String name = "NamHyerhin";
-    private final String goal = "Backend Developer";
+    private final String goal = "RPA Developer", "Backend Developer";
 
     private final String[] studying = {
         "Spring Security",
-        "Spring Batch"
+        "Spring Batch",
+        "UiPath"
     };
 
     private final String[] certifications = {
