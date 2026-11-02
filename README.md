@@ -1,11 +1,10 @@
-
 <div align="center">
 
 # nmhyrhn's GitHub
 
-### 꾸준히 배우고 기록하며 성장하는 Backend Developer
+### 꾸준히 배우고 기록하며 성장하는 Backend & RPA Developer
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=28&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Backend+Developer+in+Progress;Java+%26+Spring+Boot;Keep+Learning%2C+Keep+Building)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=28&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Backend+%26+RPA+Developer;Java+%26+Spring+Boot;UiPath+%26+Workato;Keep+Learning%2C+Keep+Building)
 
 </div>
 
@@ -16,12 +15,22 @@
 ```java
 public class Developer {
     private final String name = "NamHyerhin";
-    private final String goal = "RPA Developer", "Backend Developer";
+
+    private final String[] roles = {
+        "Backend Developer",
+        "RPA Developer"
+    };
+
+    private final String[] skills = {
+        "Java & Spring Boot",
+        "UiPath",
+        "Worktro"
+    };
 
     private final String[] studying = {
         "Spring Security",
         "Spring Batch",
-        "UiPath"
+        "RPA & Business Automation"
     };
 
     private final String[] certifications = {
@@ -56,6 +65,9 @@ public class Developer {
 ![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
+### RPA & Automation
+
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
 
 ### Tools
 
